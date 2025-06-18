@@ -4,7 +4,6 @@
 * [Setup](#setup)
 * [Code Examples](#code-examples)
 * [Features](#features)
-* [Status](#status)
 * [Contact](#contact)
 ## Screenshots
 
@@ -117,9 +116,6 @@ Features that can be added:
 * Increase the vocabulary of our model
 * Incorporate feedback mechanism to make the model more robust
 * Add more sign languages
-
-## Status
-Project is: _finished_. Our team was the winner of the UNT Hackaton 2019. You can find the our final submission post on [devpost](https://rebrand.ly/754c5). 
 
 ## Contact
 Created by me with my teammates [Kolla Revanth Kumar], [Kopparthi Mounika], [Guda Manikanta].
