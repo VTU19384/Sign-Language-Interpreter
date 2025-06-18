@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Stars](https://img.shields.io/github/stars/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg?style=social)
 ![Forks](https://img.shields.io/github/forks/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg?style=social)
 ![GitHub contributors](https://img.shields.io/github/contributors/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg)
@@ -182,3 +183,6 @@ My other projects can be found [here](https://link.harshgupta.com/85f2e).
 [![GitHub](https://img.shields.io/github/followers/harshbg.svg?style=social)](https://link.harshgupta.com/e144a)
 [![Twitter](https://img.shields.io/twitter/follow/harshbg.svg?style=social)](https://link.harshgupta.com/34c63)
 
+=======
+# Sign-Language-Interpreter
+>>>>>>> 10a64569cf3b06621a7deab726c031962b3fa56f
