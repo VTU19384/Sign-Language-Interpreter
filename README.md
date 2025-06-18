@@ -1,24 +1,11 @@
 ## Table of contents
 * [Screenshots](#screenshots)
-* [Demo](#demo)
 * [Technologies and Tools](#technologies-and-tools)
 * [Setup](#setup)
 * [Code Examples](#code-examples)
 * [Features](#features)
 * [Status](#status)
 * [Contact](#contact)
-
-## Demo
-![Example screenshot](./img/demo4.gif)
-
-
-
-![Example screenshot](./img/demo2.gif)
-
-
-
-![Example screenshot](./img/demo3.gif)
-
 ## Screenshots
 
 ![Example screenshot](./img/Capture1.PNG)
